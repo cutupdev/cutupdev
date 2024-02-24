@@ -26,12 +26,10 @@
 </a>
 
 
-<a href="https://github.com/catdever/Wizard-Tech-Product-Browser" target="_blank"><strong style="font-size: 20px;" height="600" width="1000">Wizard-Tech Emotional AI</strong></a>
-<img src="./img/project/wizard-chatbot.jpg" alt="vectorlogo.zone" height="600" width="1000">
-<a href="https://github.com/catlover75926/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><strong style="font-size: 20px;" height="600" width="1000">Prediction for Bitcoin Price</strong></a>
-<img src="./img/project/bitcoin.JPG" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://www.wizardtech.biz/" target="_blank"><strong style="font-size: 20px;" height="600" width="1000">PDF Question-Answer System</strong></a>
 <img src="./img/project/pdf-ask-answer.jpg" alt="vectorlogo.zone" height="600" width="1000">
+<a href="https://github.com/catlover75926/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><strong style="font-size: 20px;" height="600" width="1000">Prediction for Bitcoin Price</strong></a>
+<img src="./img/project/bitcoin.JPG" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Real-Time-Tennis-Ball-Tracking-in-Bad-Angle" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Tennis Ball Tracking Project in Difficult Angle</strong></a>
 <img src="./img/project/tennis.gif" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Fox-Finance" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Fox Finance</strong></a>
@@ -61,3 +59,5 @@
 <a href="https://github.com/catlover75926/suitable-search-chatbot" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Chatbot Offering Suitable Books for Client</strong></a>
 <img src="./img/project/books-chatbot.jpg" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Dusty-Valuts" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Dusty Vaults</strong></a>
+<a href="https://github.com/catdever/Wizard-Tech-Product-Browser" target="_blank"><strong style="font-size: 20px;" height="600" width="1000">Wizard-Tech Emotional AI</strong></a>
+<img src="./img/project/wizard-chatbot.jpg" alt="vectorlogo.zone" height="600" width="1000">
