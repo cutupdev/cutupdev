@@ -26,6 +26,8 @@
 </a>
 
 
+<a href="https://github.com/catlover75926/Vehicle-Real-Time-Counting-YOLO" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Vehicle Real Time Counting Project Using YOLO</strong></a>
+<img src="./img/project/vehicle.gif" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://www.wizardtech.biz/" target="_blank"><strong style="font-size: 20px;" height="600" width="1000">PDF Question-Answer System</strong></a>
 <img src="./img/project/pdf-ask-answer.jpg" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><strong style="font-size: 20px;" height="600" width="1000">Prediction for Bitcoin Price</strong></a>
@@ -34,8 +36,6 @@
 <img src="./img/project/tennis.gif" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Fox-Finance" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Fox Finance</strong></a>
 <img src="./img/project/foxfi.png" alt="vectorlogo.zone" height="600" width="1000">
-<a href="https://github.com/catlover75926/Vehicle-Real-Time-Counting-YOLO" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Vehicle Real Time Counting Project Using YOLO</strong></a>
-<img src="./img/project/vehicle.gif" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Deep-Learning-for-Oil-Price-Forecasting-using-Multivariate" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Oil Price Forecasting Using Multivariate by LSTM | GRU</strong></a>
 <img src="./img/project/multivariate.JPG" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://www.stars21.com/translator/english/fula/" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">English-Fula Translation System</strong></a>
