@@ -6,9 +6,9 @@
 <a href="https://github.com/catlover75926/catlover75926/ConradTakashiResume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
-<a href="https://x.com/catlover75926">
+<!-- <a href="https://x.com/catlover75926">
     <img src="https://img.shields.io/badge/twitter-catlover75926-blue?style=flat-square&logo=twitter&logoColor=white">
-</a>
+</a> -->
 <a href="https://discord.com/users/1170041065093484605">
     <img src="https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=discord&logoColor=white">
 </a>
@@ -26,132 +26,38 @@
 </a>
 
 
-<a href="https://github.com/catdever/Wizard-Tech-Product-Browser" target="_blank"><strong style="font-size: 20px;" height="150" width="250">Wizard-Tech Emotional AI</strong></a>
-
-<a href="https://github.com/catlover75926/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><strong style="font-size: 20px;" height="150" width="250">Prediction for Bitcoin Price</strong></a>
-
-<a href="https://www.wizardtech.biz/" target="_blank"><strong style="font-size: 20px;" height="150" width="250">PDF Question-Answer System</strong></a>
-<img src="./img/project/wizard-chatbot.jpg" alt="vectorlogo.zone" height="150" width="250">
-<img src="./img/project/bitcoin.JPG" alt="vectorlogo.zone" height="150" width="250">
-<img src="./img/project/pdf-ask-answer.jpg" alt="vectorlogo.zone" height="150" width="250">
+<a href="https://github.com/catdever/Wizard-Tech-Product-Browser" target="_blank"><strong style="font-size: 20px;" height="600" width="1000">Wizard-Tech Emotional AI</strong></a>
+<img src="./img/project/wizard-chatbot.jpg" alt="vectorlogo.zone" height="600" width="1000">
+<a href="https://github.com/catlover75926/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><strong style="font-size: 20px;" height="600" width="1000">Prediction for Bitcoin Price</strong></a>
+<img src="./img/project/bitcoin.JPG" alt="vectorlogo.zone" height="600" width="1000">
+<a href="https://www.wizardtech.biz/" target="_blank"><strong style="font-size: 20px;" height="600" width="1000">PDF Question-Answer System</strong></a>
+<img src="./img/project/pdf-ask-answer.jpg" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Real-Time-Tennis-Ball-Tracking-in-Bad-Angle" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Tennis Ball Tracking Project in Difficult Angle</strong></a>
+<img src="./img/project/tennis.gif" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Fox-Finance" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Fox Finance</strong></a>
+<img src="./img/project/foxfi.png" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Vehicle-Real-Time-Counting-YOLO" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Vehicle Real Time Counting Project Using YOLO</strong></a>
-<img src="./img/project/tennis.gif" alt="vectorlogo.zone" height="150" width="250">
-<img src="./img/project/foxfi.png" alt="vectorlogo.zone" height="150" width="250">
-<img src="./img/project/vehicle.gif" alt="vectorlogo.zone" height="150" width="250">
+<img src="./img/project/vehicle.gif" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Deep-Learning-for-Oil-Price-Forecasting-using-Multivariate" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Oil Price Forecasting Using Multivariate by LSTM | GRU</strong></a>
+<img src="./img/project/multivariate.JPG" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://www.stars21.com/translator/english/fula/" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">English-Fula Translation System</strong></a>
+<img src="./img/project/translation.jpg" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Brain-Tumors-Segmentation-using-Encoder-Decoder" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Brain Tumors Segmentation Project</strong></a>
-<img src="./img/project/multivariate.JPG" alt="vectorlogo.zone" height="150" width="250">
-<img src="./img/project/translation.jpg" alt="vectorlogo.zone" height="150" width="250">
-<img src="./img/project/cancer.JPG" alt="vectorlogo.zone" height="150" width="250">
+<img src="./img/project/cancer.JPG" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Table-Tennis-Ball-Tracking-using-CNN" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Table Tennis Ball Tracking Project</strong></a>
+<img src="./img/project/table.gif" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Multi-Layered-Real-Yield-DeFi-Ecosystem" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">YieldzProtocol Defi</strong></a>
+<img src="./img/project/yieldz.png" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Electric-power-Consumption-Forecasting" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Forecasting Electric Power Consumption</strong></a>
-<img src="./img/project/table.gif" alt="vectorlogo.zone" height="150" width="250">
-<img src="./img/project/yieldz.png" alt="vectorlogo.zone" height="150" width="250">
-<img src="./img/project/electric.JPG" alt="vectorlogo.zone" height="150" width="250">
+<img src="./img/project/electric.JPG" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Stock-Price-Prediction-Various-Methods" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Stock Price Prediction</strong></a>
+<img src="./img/project/stock.JPG" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/real-time-data-chatbot" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Chatbot for Real Time Data Processing</strong></a>
+<img src="./img/project/series-chatbot.jpeg" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Clothes-Similarity-Comparison" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Clothes Similarity Comparison Project</strong></a>
-<img src="./img/project/stock.JPG" alt="vectorlogo.zone" height="150" width="250">
-<img src="./img/project/series-chatbot.jpeg" alt="vectorlogo.zone" height="150" width="250">
-<img src="./img/project/similarity.JPG" alt="vectorlogo.zone" height="150" width="250">
+<img src="./img/project/similarity.JPG" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Road-Damage-Detection" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Road Damage Detection Project</strong></a>
+<img src="./img/project/road.JPG" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/suitable-search-chatbot" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Chatbot Offering Suitable Books for Client</strong></a>
+<img src="./img/project/books-chatbot.jpg" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://github.com/catlover75926/Dusty-Valuts" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Dusty Vaults</strong></a>
-<img src="./img/project/road.JPG" alt="vectorlogo.zone" height="150" width="250">
-<img src="./img/project/books-chatbot.jpg" alt="vectorlogo.zone" height="150" width="250">
-<img src="./img/project/dusty.png" alt="vectorlogo.zone" height="150" width="250">
-
-
-<section id="projects" class="services">
-    <div class="container">
-        <div style="display: flex; justify-content: space-around; margin-top: 20px">
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catdever/Wizard-Tech-Product-Browser" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Wizard-Tech Emotional AI</strong></a>
-                <img src="./img/project/wizard-chatbot.jpg" alt="vectorlogo.zone" height="150" width="250">
-            </div>
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catlover75926/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Prediction for Bitcoin Price</strong></a>
-                <img src="./img/project/bitcoin.JPG" alt="vectorlogo.zone" height="150" width="250">
-            </div>
-            <div style="display: flex; flex-direction: column">
-                <a href="https://www.wizardtech.biz/" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">PDF Question-Answer System</strong></a>
-                <img src="./img/project/pdf-ask-answer.jpg" alt="vectorlogo.zone" height="150" width="250">
-            </div>    
-        </div>
-        <div style="display: flex; justify-content: space-around; margin-top: 20px">
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catlover75926/Real-Time-Tennis-Ball-Tracking-in-Bad-Angle" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Tennis Ball Tracking Project in Difficult Angle</strong></a>
-                <img src="./img/project/tennis.gif" alt="vectorlogo.zone" height="150" width="250">
-            </div>
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catlover75926/Fox-Finance" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Fox Finance</strong></a>
-                <img src="./img/project/foxfi.png" alt="vectorlogo.zone" height="150" width="250">
-            </div>
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catlover75926/Vehicle-Real-Time-Counting-YOLO" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Vehicle Real Time Counting Project Using YOLO</strong></a>
-                <img src="./img/project/vehicle.gif" alt="vectorlogo.zone" height="150" width="250">
-            </div>
-        </div>
-        <div style="display: flex; justify-content: space-around; margin-top: 20px">
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catlover75926/Deep-Learning-for-Oil-Price-Forecasting-using-Multivariate" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Oil Price Forecasting Using Multivariate by LSTM | GRU</strong></a>
-                <img src="./img/project/multivariate.JPG" alt="vectorlogo.zone" height="150" width="250">
-            </div>
-            <div style="display: flex; flex-direction: column">
-                <a href="https://www.stars21.com/translator/english/fula/" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">English-Fula Translation System</strong></a>
-                <img src="./img/project/translation.jpg" alt="vectorlogo.zone" height="150" width="250">
-            </div>
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catlover75926/Brain-Tumors-Segmentation-using-Encoder-Decoder" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Brain Tumors Segmentation Project</strong></a>
-                <img src="./img/project/cancer.JPG" alt="vectorlogo.zone" height="150" width="250">
-            </div>
-        </div>
-        <div style="display: flex; justify-content: space-around; margin-top: 20px">
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catlover75926/Table-Tennis-Ball-Tracking-using-CNN" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Table Tennis Ball Tracking Project</strong></a>
-                <img src="./img/project/table.gif" alt="vectorlogo.zone" height="150" width="250">
-            </div>
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catlover75926/Multi-Layered-Real-Yield-DeFi-Ecosystem" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">YieldzProtocol Defi</strong></a>
-                <img src="./img/project/yieldz.png" alt="vectorlogo.zone" height="150" width="250">
-            </div>
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catlover75926/Electric-power-Consumption-Forecasting" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Forecasting Electric Power Consumption</strong></a>
-                <img src="./img/project/electric.JPG" alt="vectorlogo.zone" height="150" width="250">
-            </div>    
-        </div>
-        <div style="display: flex; justify-content: space-around; margin-top: 20px">
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catlover75926/Stock-Price-Prediction-Various-Methods" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Stock Price Prediction</strong></a>
-                <img src="./img/project/stock.JPG" alt="vectorlogo.zone" height="150" width="250">
-            </div>
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catlover75926/real-time-data-chatbot" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Chatbot for Real Time Data Processing</strong></a>
-                <img src="./img/project/series-chatbot.jpeg" alt="vectorlogo.zone" height="150" width="250">
-            </div>
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catlover75926/Clothes-Similarity-Comparison" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Clothes Similarity Comparison Project</strong></a>
-                <img src="./img/project/similarity.JPG" alt="vectorlogo.zone" height="150" width="250">
-            </div>  
-        </div>
-        <div style="display: flex; justify-content: space-around; margin-top: 20px">
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catlover75926/Road-Damage-Detection" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Road Damage Detection Project</strong></a>
-                <img src="./img/project/road.JPG" alt="vectorlogo.zone" height="150" width="250">
-            </div>
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catlover75926/suitable-search-chatbot" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Chatbot Offering Suitable Books for Client</strong></a>
-                <img src="./img/project/books-chatbot.jpg" alt="vectorlogo.zone" height="150" width="250">
-            </div>
-            <div style="display: flex; flex-direction: column">
-                <a href="https://github.com/catlover75926/Dusty-Valuts" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Dusty Vaults</strong></a>
-                <img src="./img/project/dusty.png" alt="vectorlogo.zone" height="150" width="250">
-            </div>
-        </div>
-    </div>
-</section>
-
