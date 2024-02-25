@@ -1,11 +1,8 @@
 # Hi there 👋
-## This is Conrad Takashi, ML | AI Engineer
+## This is Active ML | AI Engineer
 <a href="https://www.catloverdev.com/">
     <img src="https://img.shields.io/badge/Website-catloverdev.com-red?style=flat-square">
-</a>  
-<a href="https://github.com/catlover75926/catlover75926/ConradTakashiResume.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  
+</a> 
 <!-- <a href="https://x.com/catlover75926">
     <img src="https://img.shields.io/badge/twitter-catlover75926-blue?style=flat-square&logo=twitter&logoColor=white">
 </a> -->
