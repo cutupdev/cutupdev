@@ -19,7 +19,7 @@
 <a href="https://wa.me/13137423660">
     <img src="https://img.shields.io/badge/Whatsapp-blue?style=flat-square&logo=whatsapp&logoColor=white">
 </a>
-<a href="mailto:takasi75926@gmail.com">
+<a href="mailto:lionking7526@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
