@@ -1,6 +1,6 @@
 # Hi there 👋
-## AI | EVM Engineer Agency
-### ML | AI, EVM Smart Contract | Web3
+## AI | Blockchain Developer Team
+### AI, Blockchain Smart Contract | Web3 and Fullstack
 <!-- <a href="https://www.catloverdev.com/">
     <img src="https://img.shields.io/badge/Website-catloverdev.com-red?style=flat-square">
 </a>  -->
