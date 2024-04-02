@@ -28,8 +28,8 @@
 #### 🚀 Our mission: Offering efficient solutions by combining AI, Blockchain and Fullstack
 #### 💡 Crafting the future with innovative AI integrations and robust Fullstack solutions.
 #### 🌐 Navigating the complexities of Blockchain & Smart Contracts to deliver decentralized excellence.
-#### 🤖 AI Architects: Developing intelligent systems that learn, adapt, and revolutionize industries with smart, data-driven insights.
 #### 🛠 Committed to leading Web3 development, connecting the dots between next-gen technologies and practical applications.
+#### 🤖 AI Architects: Developing intelligent systems that learn, adapt, and revolutionize industries with smart, data-driven insights.
 #### 🔗 Join us as we build the platforms of tomorrow—where intelligence integrated with everything.
 #### 🎈 Let's Innovate Together: Partner with CatLover and step into a world where intelligent automation meets the immutability of Blockchain.
 
@@ -112,10 +112,7 @@
 
 ## 💰 Chain based
 <img src="https://res.coinpaper.com/coinpaper/bitcoin_btc_logo_62c59b827e.png" alt="Bitcoin logo" title="Bitcoin" height="35"/>
-&nbsp;
-<img src="Sei.jpg" alt="Sei" title="Sei" height="35" />
-&nbsp;
-<span><img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" alt="Solana logo" title="Solana" height="35" />
+&nbsp;<img src="Sei.jpg" alt="Sei" title="Sei" height="35" />&nbsp;<span><img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" alt="Solana logo" title="Solana" height="35" />
 &nbsp;
 <img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum logo" title="Ethereum" height="35" />
 &nbsp;
