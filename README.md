@@ -25,13 +25,11 @@
 
 ### 🌟 CatLover: Pioneers at the Intersection of AI & Blockchain & Fullstack Technology
 
-#### 🚀 Our mission: Offering efficient solutions by combining AI, Blockchain and Fullstack
+#### 🚀 Our mission: Offering efficient solutions by combining AI, Blockchain and Fullstack.
 #### 💡 Crafting the future with innovative AI integrations and robust Fullstack solutions.
 #### 🌐 Navigating the complexities of Blockchain & Smart Contracts to deliver decentralized excellence.
 #### 🛠 Committed to leading Web3 development, connecting the dots between next-gen technologies and practical applications.
-#### 🤖 AI Architects: Developing intelligent systems that learn, adapt, and revolutionize industries with smart, data-driven insights.
-#### 🔗 Join us as we build the platforms of tomorrow—where intelligence integrated with everything.
-#### 🎈 Let's Innovate Together: Partner with CatLover and step into a world where intelligent automation meets the immutability of Blockchain.
+#### 🔗 Let's Innovate Together: Partner with CatLover and step into a world where intelligent automation meets the immutability of Blockchain.
 
 
 ## 🛠  Technologies and tools
@@ -128,6 +126,9 @@
 
 ## Projects
 <a href="https://github.com/catlover75926/Vehicle-Real-Time-Counting-YOLO" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Vehicle Real Time Counting Project Using YOLO</strong></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/catlover75926/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><strong style="font-size: 20px;" height="600" width="1000">Prediction for Bitcoin Price</strong></a>
+<img src="./img/project/vehicle.gif" width="350"> <img src="./img/project/pdf-ask-answer.jpg" width="350"> 
 <img src="./img/project/vehicle.gif" alt="vectorlogo.zone" height="600" width="1000">
 <a href="https://www.wizardtech.biz/" target="_blank"><strong style="font-size: 20px;" height="600" width="1000">PDF Question-Answer System</strong></a>
 <img src="./img/project/pdf-ask-answer.jpg" alt="vectorlogo.zone" height="600" width="1000">
