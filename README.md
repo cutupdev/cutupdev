@@ -130,9 +130,9 @@
 <a href="https://github.com/catlover75926/Barclays-PLC-stock-price-prediction" target="_blank"><img src="./img/project/Barclays PLC stock price.jpg" width="400"></a>
 <a href="https://github.com/catlover75926/deposit-sei" target="_blank"><img src="./img/project/sei-deposit.jpg" width="400"></a>
 <a href="https://github.com/catlover75926/pdf-ask-system" target="_blank"><img src="./img/project/pdf-ask-answer.jpg" width="400"></a>
-<a href="https://github.com/catlover75926/Ordinal-inscriptions" target="_blank"><img src="./img/project/Ordinal Inscriptions.PNG" width="400"></a>
-<a href="https://github.com/catlover75926/Real-Time-Tennis-Ball-Tracking-in-Bad-Angle" target="_blank"><img src="./img/project/tennis.gif" width="400"></a>
 <a href="https://github.com/catlover75926/Fox-Finance" target="_blank"><img src="./img/project/foxfi.png" width="400"></a>
+<a href="https://github.com/catlover75926/Real-Time-Tennis-Ball-Tracking-in-Bad-Angle" target="_blank"><img src="./img/project/tennis.gif" width="400"></a>
+<a href="https://github.com/catlover75926/Ordinal-inscriptions" target="_blank"><img src="./img/project/Ordinal Inscriptions.PNG" width="400"></a>
 <a href="https://github.com/catlover75926/fula-to-english-translation" target="_blank"><img src="./img/project/translation.jpg" width="400"></a>
 <a href="https://github.com/catlover75926/flviator-frontend" target="_blank"><img src="./img/project/flviator.jpg" width="400"></a>
 <a href="https://github.com/catlover75926/Deep-Learning-for-Oil-Price-Forecasting-using-Multivariate" target="_blank"><img src="./img/project/multivariate.JPG" width="400"></a>
@@ -147,4 +147,4 @@
 <a href="https://github.com/catlover75926/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><img src="./img/project/bitcoin.JPG" width="400"></a>
 <a href="https://github.com/catlover75926/suitable-search-chatbot" target="_blank"><img src="./img/project/books-chatbot.jpg" width="400"></a>
 <a href="https://github.com/catlover75926/Road-Damage-Detection" target="_blank"><img src="./img/project/road.JPG" width="400"></a>
-<a href="https://github.com/catdever/Wizard-Tech-Product-Browser" target="_blank"><img src="./img/project/wizard-chatbot.jpg" width="400"></a>
+<a href="https://www.wizardtech.biz/" target="_blank"><img src="./img/project/wizard-chatbot.jpg" width="400"></a>
