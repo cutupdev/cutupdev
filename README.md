@@ -126,20 +126,25 @@
 
 ## Projects
 <a href="https://github.com/catlover75926/Vehicle-Real-Time-Counting-YOLO" target="_blank"><img src="./img/project/vehicle.gif" width="400"></a>
-<a href="https://github.com/catlover75926/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><img src="./img/project/pdf-ask-answer.jpg" width="400"></a>
-<a href="https://github.com/catlover75926/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><img src="./img/project/bitcoin.JPG" width="400"></a>
+<a href="https://github.com/catlover75926/artpunk-unstaking" target="_blank"><img src="./img/project/artpunk.jpg" width="400"></a>
+<a href="https://github.com/catlover75926/Barclays-PLC-stock-price-prediction" target="_blank"><img src="./img/project/Barclays PLC stock price.jpg" width="400"></a>
+<a href="https://github.com/catlover75926/Ordinal-inscriptions" target="_blank"><img src="./img/project/Ordinal Inscriptions.PNG" width="400"></a>
+<a href="https://github.com/catlover75926/pdf-ask-system" target="_blank"><img src="./img/project/pdf-ask-answer.jpg" width="400"></a>
+<a href="https://github.com/catlover75926/deposit-sei" target="_blank"><img src="./img/project/sei-deposit.jpg" width="400"></a>
 <a href="https://github.com/catlover75926/Real-Time-Tennis-Ball-Tracking-in-Bad-Angle" target="_blank"><img src="./img/project/tennis.gif" width="400"></a>
 <a href="https://github.com/catlover75926/Fox-Finance" target="_blank"><img src="./img/project/foxfi.png" width="400"></a>
 <a href="https://github.com/catlover75926/Deep-Learning-for-Oil-Price-Forecasting-using-Multivariate" target="_blank"><img src="./img/project/multivariate.JPG" width="400"></a>
-<a href="https://www.stars21.com/translator/english/fula/" target="_blank"><img src="./img/project/translation.jpg" width="400"></a>
+<a href="https://github.com/catlover75926/fula-to-english-translation" target="_blank"><img src="./img/project/translation.jpg" width="400"></a>
+<a href="https://github.com/catlover75926/flviator-frontend" target="_blank"><img src="./img/project/flviator.jpg" width="400"></a>
 <a href="https://github.com/catlover75926/Brain-Tumors-Segmentation-using-Encoder-Decoder" target="_blank"><img src="./img/project/cancer.JPG" width="400"></a>
 <a href="https://github.com/catlover75926/Table-Tennis-Ball-Tracking-using-CNN" target="_blank"><img src="./img/project/table.gif" width="400"></a>
 <a href="https://github.com/catlover75926/Multi-Layered-Real-Yield-DeFi-Ecosystem" target="_blank"><img src="./img/project/yieldz.png" width="400"></a>
 <a href="https://github.com/catlover75926/Electric-power-Consumption-Forecasting" target="_blank"><img src="./img/project/electric.JPG" width="400"></a>
-<a href="https://github.com/catlover75926/Stock-Price-Prediction-Various-Methods" target="_blank"><img src="./img/project/stock.JPG" width="400"></a>
+<a href="https://github.com/catlover75926/ERP-solutions" target="_blank"><img src="./img/project/ERP.jpg" width="400"></a>
 <a href="https://github.com/catlover75926/real-time-data-chatbot" target="_blank"><img src="./img/project/series-chatbot.jpeg" width="400"></a>
 <a href="https://github.com/catlover75926/Clothes-Similarity-Comparison" target="_blank"><img src="./img/project/similarity.JPG" width="400"></a>
 <a href="https://github.com/catlover75926/Road-Damage-Detection" target="_blank"><img src="./img/project/road.JPG" width="400"></a>
+<a href="https://github.com/catlover75926/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><img src="./img/project/bitcoin.JPG" width="400"></a>
 <a href="https://github.com/catlover75926/suitable-search-chatbot" target="_blank"><img src="./img/project/books-chatbot.jpg" width="400"></a>
 <a href="https://github.com/catlover75926/Dusty-Valuts" target="_blank"><img src="./img/project/dusty.png" width="400"></a>
 <a href="https://github.com/catdever/Wizard-Tech-Product-Browser" target="_blank"><img src="./img/project/wizard-chatbot.jpg" width="400"></a>
