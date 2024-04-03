@@ -129,52 +129,52 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/catlover75926/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><strong style="font-size: 20px;">Prediction for Bitcoin Price</strong></a>
 <br />
-<img src="./img/project/vehicle.gif" width="450"> <img src="./img/project/pdf-ask-answer.jpg" width="450">
+<img src="./img/project/vehicle.gif" width="400"> <img src="./img/project/pdf-ask-answer.jpg" width="400">
 <br />
 <span><a href="https://github.com/catlover75926/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><strong style="font-size: 20px;">Prediction for Bitcoin Price</strong></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/catlover75926/Real-Time-Tennis-Ball-Tracking-in-Bad-Angle" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Tennis Ball Tracking Project in Difficult Angle</strong></a>
 <br />
-<img src="./img/project/bitcoin.JPG" width="450"> <img src="./img/project/tennis.gif" width="450">
+<img src="./img/project/bitcoin.JPG" width="400"> <img src="./img/project/tennis.gif" width="400">
 <br />
 <span><a href="https://github.com/catlover75926/Fox-Finance" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Fox Finance</strong></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/catlover75926/Deep-Learning-for-Oil-Price-Forecasting-using-Multivariate" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Oil Price Forecasting Using Multivariate by LSTM | GRU</strong></a>
 <br />
-<img src="./img/project/foxfi.png" width="450"> <img src="./img/project/multivariate.JPG" width="450">
+<img src="./img/project/foxfi.png" width="400"> <img src="./img/project/multivariate.JPG" width="400">
 <br />
 <a href="https://www.stars21.com/translator/english/fula/" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">English-Fula Translation System</strong></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/catlover75926/Brain-Tumors-Segmentation-using-Encoder-Decoder" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Brain Tumors Segmentation Project</strong></a>
 <br />
-<img src="./img/project/translation.jpg" width="450"> <img src="./img/project/cancer.JPG" width="450">
+<img src="./img/project/translation.jpg" width="400"> <img src="./img/project/cancer.JPG" width="400">
 <br />
 <a href="https://github.com/catlover75926/Table-Tennis-Ball-Tracking-using-CNN" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Table Tennis Ball Tracking Project</strong></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/catlover75926/Multi-Layered-Real-Yield-DeFi-Ecosystem" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">YieldzProtocol Defi</strong></a>
 <br />
-<img src="./img/project/table.gif" width="450"> <img src="./img/project/yieldz.png" width="450">
+<img src="./img/project/table.gif" width="400"> <img src="./img/project/yieldz.png" width="400">
 <br />
 <a href="https://github.com/catlover75926/Electric-power-Consumption-Forecasting" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Forecasting Electric Power Consumption</strong></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/catlover75926/Stock-Price-Prediction-Various-Methods" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Stock Price Prediction</strong></a>
 <br />
-<img src="./img/project/electric.JPG" width="450"> <img src="./img/project/stock.JPG" width="450">
+<img src="./img/project/electric.JPG" width="400"> <img src="./img/project/stock.JPG" width="400">
 <br />
 <a href="https://github.com/catlover75926/real-time-data-chatbot" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Chatbot for Real Time Data Processing</strong></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/catlover75926/Clothes-Similarity-Comparison" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Clothes Similarity Comparison Project</strong></a>
 <br />
-<img src="./img/project/series-chatbot.jpeg" width="450"> <img src="./img/project/similarity.JPG" width="450">
+<img src="./img/project/series-chatbot.jpeg" width="400"> <img src="./img/project/similarity.JPG" width="400">
 <br />
 <a href="https://github.com/catlover75926/Road-Damage-Detection" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Road Damage Detection Project</strong></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/catlover75926/suitable-search-chatbot" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Chatbot Offering Suitable Books for Client</strong></a>
 <br />
-<img src="./img/project/road.JPG" width="450"> <img src="./img/project/books-chatbot.jpg" width="450">
+<img src="./img/project/road.JPG" width="400"> <img src="./img/project/books-chatbot.jpg" width="400">
 <br />
 <a href="https://github.com/catlover75926/Dusty-Valuts" target="_blank"><strong style="font-size: 20px; display: flex; justify-content: center">Dusty Vaults</strong></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/catdever/Wizard-Tech-Product-Browser" target="_blank"><strong style="font-size: 20px;">Wizard-Tech Emotional AI</strong></a>
 <br />
-<img src="./img/project/dusty.png" width="450"> <img src="./img/project/wizard-chatbot.jpg" width="450">
+<img src="./img/project/dusty.png" width="400"> <img src="./img/project/wizard-chatbot.jpg" width="400">
