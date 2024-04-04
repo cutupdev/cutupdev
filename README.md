@@ -111,7 +111,7 @@
 ## 💰 Chain based
 <span><img src="https://res.coinpaper.com/coinpaper/bitcoin_btc_logo_62c59b827e.png" alt="Bitcoin logo" title="Bitcoin" height="35"/>
 &nbsp;
-<span><img src="Sei.jpg" alt="Sei logo" title="Sei" height="35"/>
+<span><img src="./img/logo/Sei.jpg" alt="Sei logo" title="Sei" height="35"/>
 &nbsp;
 <img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" alt="Solana logo" title="Solana" height="35" />
 &nbsp;
@@ -139,7 +139,6 @@
 <a href="https://github.com/catlover75926/Multi-Layered-Real-Yield-DeFi-Ecosystem" target="_blank"><img src="./img/project/yieldz.png" width="400"></a>
 <a href="https://github.com/catlover75926/Brain-Tumors-Segmentation-using-Encoder-Decoder" target="_blank"><img src="./img/project/cancer.JPG" width="400"></a>
 <a href="https://github.com/catlover75926/Table-Tennis-Ball-Tracking-using-CNN" target="_blank"><img src="./img/project/table.gif" width="400"></a>
-<a href="https://github.com/catlover75926/Electric-power-Consumption-Forecasting" target="_blank"><img src="./img/project/electric.JPG" width="400"></a>
 <a href="https://github.com/catlover75926/ERP-solutions" target="_blank"><img src="./img/project/ERP.jpg" width="400"></a>
 <a href="https://github.com/catlover75926/real-time-data-chatbot" target="_blank"><img src="./img/project/series-chatbot.jpeg" width="400"></a>
 <a href="https://github.com/catlover75926/Clothes-Similarity-Comparison" target="_blank"><img src="./img/project/similarity.JPG" width="400"></a>
