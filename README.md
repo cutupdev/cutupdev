@@ -141,8 +141,8 @@
 <a href="https://github.com/catlover75926/Table-Tennis-Ball-Tracking-using-CNN" target="_blank"><img src="./img/project/table.gif" width="400"></a>
 <a href="https://github.com/catlover75926/ERP-solutions" target="_blank"><img src="./img/project/ERP.jpg" width="400"></a>
 <a href="https://github.com/catlover75926/real-time-data-chatbot" target="_blank"><img src="./img/project/series-chatbot.jpeg" width="400"></a>
-<a href="https://github.com/catlover75926/Clothes-Similarity-Comparison" target="_blank"><img src="./img/project/similarity.JPG" width="400"></a>
 <a href="https://github.com/catlover75926/Dusty-Valuts" target="_blank"><img src="./img/project/dusty.png" width="400"></a>
+<a href="https://github.com/catlover75926/Clothes-Similarity-Comparison" target="_blank"><img src="./img/project/similarity.JPG" width="400"></a>
 <a href="https://github.com/catlover75926/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><img src="./img/project/bitcoin.JPG" width="400"></a>
 <a href="https://github.com/catlover75926/suitable-search-chatbot" target="_blank"><img src="./img/project/books-chatbot.jpg" width="400"></a>
 <a href="https://github.com/catlover75926/Road-Damage-Detection" target="_blank"><img src="./img/project/road.JPG" width="400"></a>
