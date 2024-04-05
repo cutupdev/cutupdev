@@ -1,35 +1,35 @@
 # Hi there 👋
-## AI | Blockchain Developer Team
+## We are HarmoniTech Team
 ### AI, Blockchain Smart Contract | Web3 and Fullstack
-<!-- <a href="https://www.catloverdev.com/">
-    <img src="https://img.shields.io/badge/Website-catloverdev.com-red?style=flat-square">
-</a>  -->
-<!-- <a href="https://x.com/catlover75926">
-    <img src="https://img.shields.io/badge/twitter-catlover75926-blue?style=flat-square&logo=twitter&logoColor=white">
-</a> -->
-<a href="https://discord.com/users/1170041065093484605">
-    <img src="https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=discord&logoColor=white">
-</a>
-<a href='https://t.me/takashi75926' target="_blank">
-    <img alt='GoogleScholar' src='https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&&color=0181FF'>
-</a>
-<a href="https://join.skype.com/invite/OFI6ZX3NSqq2">
-    <img src="https://img.shields.io/badge/Skype-blue?style=flat-square&logo=skype&logoColor=white">
+<a href="https://www.harmonitechteam.com/">
+    <img src="https://img.shields.io/badge/Website-red?style=flat-square">
+</a> 
+<a href="https://twitter.com/harmonitechteam">
+    <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter&logoColor=white">
 </a>
 <a href="https://wa.me/13137423660">
     <img src="https://img.shields.io/badge/Whatsapp-blue?style=flat-square&logo=whatsapp&logoColor=white">
 </a>
-<a href="mailto:lionking7526@gmail.com">
+<a href="https://discord.com/users/1170041065093484605">
+    <img src="https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=discord&logoColor=white">
+</a>
+<a href='https://t.me/HarmoniTechTeam' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&&color=0181FF'>
+</a>
+<a href="https://join.skype.com/invite/L7MtJGOmyh3Y">
+    <img src="https://img.shields.io/badge/Skype-blue?style=flat-square&logo=skype&logoColor=white">
+</a>
+<a href="mailto:harmonitechteam@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
-### 🌟 CatLover: Pioneers at the Intersection of AI & Blockchain & Fullstack Technology
+### 🌟 HarmoniTech: Pioneers at the Intersection of AI & Blockchain & Fullstack Technology
 
 #### 🚀 Our mission: Offering efficient solutions by combining AI, Blockchain and Fullstack.
 #### 💡 Crafting the future with innovative AI integrations and robust Fullstack solutions.
 #### 🌐 Navigating the complexities of Blockchain & Smart Contracts to deliver decentralized excellence.
 #### 🛠 Committed to leading Web3 development, connecting the dots between next-gen technologies and practical applications.
-#### 🔗 Let's Innovate Together: Partner with CatLover and step into a world where intelligent automation meets the immutability of Blockchain.
+#### 🔗 Let's Innovate Together: Partner with HarmoniTech and step into a world where intelligent automation meets the immutability of Blockchain.
 
 
 ## 🛠  Technologies and tools
@@ -111,7 +111,7 @@
 ## 💰 Chain based
 <span><img src="https://res.coinpaper.com/coinpaper/bitcoin_btc_logo_62c59b827e.png" alt="Bitcoin logo" title="Bitcoin" height="35"/>
 &nbsp;
-<span><img src="./img/logo/Sei.jpg" alt="Sei logo" title="Sei" height="35"/>
+<span><img src="./img/logo/Sei.png" alt="Sei logo" title="Sei" height="35"/>
 &nbsp;
 <img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" alt="Solana logo" title="Solana" height="35" />
 &nbsp;
@@ -125,25 +125,37 @@
 
 
 ## Projects
-<a href="https://github.com/catlover75926/Vehicle-Real-Time-Counting-YOLO" target="_blank"><img src="./img/project/vehicle.gif" width="400"></a>
-<a href="https://github.com/catlover75926/artpunk-unstaking" target="_blank"><img src="./img/project/artpunk.jpg" width="400"></a>
-<a href="https://github.com/catlover75926/Barclays-PLC-stock-price-prediction" target="_blank"><img src="./img/project/Barclays PLC stock price.jpg" width="400"></a>
-<a href="https://github.com/catlover75926/deposit-sei" target="_blank"><img src="./img/project/sei-deposit.jpg" width="400"></a>
-<a href="https://github.com/catlover75926/pdf-ask-system" target="_blank"><img src="./img/project/pdf-ask-answer.jpg" width="400"></a>
-<a href="https://github.com/catlover75926/Fox-Finance" target="_blank"><img src="./img/project/foxfi.png" width="400"></a>
-<a href="https://github.com/catlover75926/Real-Time-Tennis-Ball-Tracking-in-Bad-Angle" target="_blank"><img src="./img/project/tennis.gif" width="400"></a>
-<a href="https://github.com/catlover75926/Ordinal-inscriptions" target="_blank"><img src="./img/project/Ordinal Inscriptions.PNG" width="400"></a>
-<a href="https://github.com/catlover75926/fula-to-english-translation" target="_blank"><img src="./img/project/translation.jpg" width="400"></a>
-<a href="https://github.com/catlover75926/flviator-frontend" target="_blank"><img src="./img/project/flviator.jpg" width="400"></a>
-<a href="https://github.com/catlover75926/Deep-Learning-for-Oil-Price-Forecasting-using-Multivariate" target="_blank"><img src="./img/project/multivariate.JPG" width="400"></a>
-<a href="https://github.com/catlover75926/Multi-Layered-Real-Yield-DeFi-Ecosystem" target="_blank"><img src="./img/project/yieldz.png" width="400"></a>
-<a href="https://github.com/catlover75926/Brain-Tumors-Segmentation-using-Encoder-Decoder" target="_blank"><img src="./img/project/cancer.JPG" width="400"></a>
-<a href="https://github.com/catlover75926/Table-Tennis-Ball-Tracking-using-CNN" target="_blank"><img src="./img/project/table.gif" width="400"></a>
-<a href="https://github.com/catlover75926/ERP-solutions" target="_blank"><img src="./img/project/ERP.jpg" width="400"></a>
-<a href="https://github.com/catlover75926/real-time-data-chatbot" target="_blank"><img src="./img/project/series-chatbot.jpeg" width="400"></a>
-<a href="https://github.com/catlover75926/Dusty-Valuts" target="_blank"><img src="./img/project/dusty.png" width="400"></a>
-<a href="https://github.com/catlover75926/Clothes-Similarity-Comparison" target="_blank"><img src="./img/project/similarity.JPG" width="400"></a>
-<a href="https://github.com/catlover75926/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><img src="./img/project/bitcoin.JPG" width="400"></a>
-<a href="https://github.com/catlover75926/suitable-search-chatbot" target="_blank"><img src="./img/project/books-chatbot.jpg" width="400"></a>
-<a href="https://github.com/catlover75926/Road-Damage-Detection" target="_blank"><img src="./img/project/road.JPG" width="400"></a>
+<a href="https://github.com/HarmoniTech/pdf-ask-system" target="_blank"><img src="./img/project/pdf-ask-answer.jpg" width="400"></a>
+<a href="https://github.com/HarmoniTech/artpunk-unstaking" target="_blank"><img src="./img/project/artpunk.jpg" width="400"></a>
+<a href="https://github.com/HarmoniTech/Real-Time-Tennis-Ball-Tracking-in-Bad-Angle" target="_blank"><img src="./img/project/tennis.gif" width="400"></a>
+<a href="https://github.com/HarmoniTech/Kod-Reward-Staking" target="_blank"><img src="./img/project/kod.png" width="400"></a>
+<a href="https://github.com/HarmoniTech/Barclays-PLC-stock-price-prediction" target="_blank"><img src="./img/project/Barclays PLC stock price.jpg" width="400"></a>
+<a href="https://github.com/HarmoniTech/Fox-Finance" target="_blank"><img src="./img/project/foxfi.png" width="400"></a>
+<a href="https://github.com/HarmoniTech/Clothes-Similarity-Comparison" target="_blank"><img src="./img/project/similarity.JPG" width="400"></a>
+<a href="https://github.com/HarmoniTech/TAC-NFT-Staking" target="_blank"><img src="./img/project/Dice.png" width="400"></a>
+<a href="https://github.com/HarmoniTech/fula-to-english-translation" target="_blank"><img src="./img/project/translation.jpg" width="400"></a>
+<a href="https://github.com/HarmoniTech/deposit-sei" target="_blank"><img src="./img/project/sei-deposit.jpg" width="400"></a>
+<a href="https://github.com/HarmoniTech/Vehicle-Real-Time-Counting-YOLO" target="_blank"><img src="./img/project/vehicle.gif" width="400"></a>
+<a href="https://github.com/HarmoniTech/Ordinal-inscriptions" target="_blank"><img src="./img/project/Ordinal Inscriptions.PNG" width="400"></a>
+<a href="https://github.com/HarmoniTech/suitable-search-chatbot" target="_blank"><img src="./img/project/books-chatbot.jpg" width="400"></a>
+<a href="https://github.com/HarmoniTech/Dice-Gambling" target="_blank"><img src="./img/project/TAC.png" width="400"></a>
+<a href="https://github.com/HarmoniTech/Deep-Learning-for-Oil-Price-Forecasting-using-Multivariate" target="_blank"><img src="./img/project/multivariate.JPG" width="400"></a>
+<a href="https://github.com/HarmoniTech/Brain-Tumors-Segmentation-using-Encoder-Decoder" target="_blank"><img src="./img/project/cancer.JPG" width="400"></a>
+<a href="https://github.com/HarmoniTech/Dusty-Valuts" target="_blank"><img src="./img/project/dusty.png" width="400"></a>
+<a href="https://github.com/HarmoniTech/Table-Tennis-Ball-Tracking-using-CNN" target="_blank"><img src="./img/project/table.gif" width="400"></a>
+<a href="https://github.com/HarmoniTech/Multi-Layered-Real-Yield-DeFi-Ecosystem" target="_blank"><img src="./img/project/yieldz.png" width="400"></a>
+<a href="https://github.com/HarmoniTech/real-time-data-chatbot" target="_blank"><img src="./img/project/series-chatbot.jpeg" width="400"></a>
+<a href="https://github.com/HarmoniTech/ERP-solutions" target="_blank"><img src="./img/project/ERP.jpg" width="400"></a>
+<a href="https://github.com/HarmoniTech/Road-Damage-Detection" target="_blank"><img src="./img/project/road.JPG" width="400"></a>
+<a href="https://github.com/HarmoniTech/flviator-frontend" target="_blank"><img src="./img/project/flviator.jpg" width="400"></a>
 <a href="https://www.wizardtech.biz/" target="_blank"><img src="./img/project/wizard-chatbot.jpg" width="400"></a>
+<a href="https://github.com/HarmoniTech/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><img src="./img/project/bitcoin.JPG" width="400"></a>
+
+
+
+
+
+
+
+
+
