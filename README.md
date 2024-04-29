@@ -1,6 +1,4 @@
-# Hi there 👋
-## We are HarmoniTech Team
-### AI, Blockchain Smart Contract | Web3 and Fullstack
+# 🌟 HarmoniTech: Pioneers at the Intersection of AI & Blockchain & Fullstack Technology
 <a href="https://www.harmonitechteam.com/">
     <img src="https://img.shields.io/badge/Website-red?style=flat-square">
 </a> 
@@ -22,14 +20,6 @@
 <a href="mailto:harmonitechteam@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-
-### 🌟 HarmoniTech: Pioneers at the Intersection of AI & Blockchain & Fullstack Technology
-
-#### 🚀 Our mission: Offering efficient solutions by combining AI, Blockchain and Fullstack.
-#### 💡 Crafting the future with innovative AI integrations and robust Fullstack solutions.
-#### 🌐 Navigating the complexities of Blockchain & Smart Contracts to deliver decentralized excellence.
-#### 🛠 Committed to leading Web3 development, connecting the dots between next-gen technologies and practical applications.
-#### 🔗 Let's Innovate Together: Partner with HarmoniTech and step into a world where intelligent automation meets the immutability of Blockchain.
 
 
 ## 🛠  Technologies and tools
