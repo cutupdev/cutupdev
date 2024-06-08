@@ -113,7 +113,7 @@
 &nbsp;
 <br />
 
-
+<!-- 
 ## Projects
 <a href="https://github.com/HarmoniTech/pdf-ask-system" target="_blank"><img src="./img/project/pdf-ask-answer.jpg" width="400"></a>
 <a href="https://github.com/HarmoniTech/artpunk-unstaking" target="_blank"><img src="./img/project/artpunk.jpg" width="400"></a>
@@ -140,12 +140,4 @@
 <a href="https://github.com/HarmoniTech/flviator-frontend" target="_blank"><img src="./img/project/flviator.jpg" width="400"></a>
 <a href="https://www.wizardtech.biz/" target="_blank"><img src="./img/project/wizard-chatbot.jpg" width="400"></a>
 <a href="https://github.com/HarmoniTech/Bitcoin-Price-Prediction-Model-Deep-Research-in-LSTM-GRU" target="_blank"><img src="./img/project/bitcoin.JPG" width="400"></a>
-
-
-
-
-
-
-
-
-
+ -->
