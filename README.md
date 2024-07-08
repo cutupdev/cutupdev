@@ -1,17 +1,14 @@
-# 🌟 HarmoniTech: Pioneers at the Intersection of AI & Blockchain & Fullstack Technology
+# 🌟 HarmoniTech: Pioneer at the Intersection of AI & Blockchain & Fullstack Technology
 <a href="https://www.harmonitechteam.com/">
     <img src="https://img.shields.io/badge/Website-red?style=flat-square">
 </a> 
-<a href="https://twitter.com/harmonitechteam">
+<a href="https://twitter.com/harmonitechdev">
     <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter&logoColor=white">
 </a>
 <a href="https://wa.me/13137423660">
     <img src="https://img.shields.io/badge/Whatsapp-blue?style=flat-square&logo=whatsapp&logoColor=white">
 </a>
-<a href="https://discord.com/users/1170041065093484605">
-    <img src="https://img.shields.io/badge/-Discord-blue?style=flat-square&logo=discord&logoColor=white">
-</a>
-<a href='https://t.me/HarmoniTechTeam' target="_blank">
+<a href='https://t.me/HarmoniTechDev' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&&color=0181FF'>
 </a>
 <a href="https://join.skype.com/invite/L7MtJGOmyh3Y">
@@ -101,15 +98,9 @@
 ## 💰 Chain based
 <span><img src="https://res.coinpaper.com/coinpaper/bitcoin_btc_logo_62c59b827e.png" alt="Bitcoin logo" title="Bitcoin" height="35"/>
 &nbsp;
-<span><img src="./img/logo/Sei.png" alt="Sei logo" title="Sei" height="35"/>
-&nbsp;
 <img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" alt="Solana logo" title="Solana" height="35" />
 &nbsp;
 <img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum logo" title="Ethereum" height="35" />
-&nbsp;
-<img src="https://seeklogo.com/images/B/binance-coin-bnb-logo-CD94CC6D31-seeklogo.com.png" alt="Binance logo" title="Binance" height="35" />
-&nbsp;
-<img src="https://seeklogo.com/images/P/polygon-matic-logo-1DFDA3A3A8-seeklogo.com.png" alt="Polygon logo" title="Polygon" height="35" />
 &nbsp;
 <br />
 
