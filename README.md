@@ -1,4 +1,4 @@
-# 🌟 HarmoniTech: Pioneer at the Intersection of AI & Blockchain & Fullstack Technology
+## 🌟 Contact with me
 <a href="https://www.harmonitechteam.com/">
     <img src="https://img.shields.io/badge/Website-red?style=flat-square">
 </a> 
@@ -19,7 +19,7 @@
 </a>
 
 
-## 🛠  Technologies and tools
+<!-- ## 🛠  Technologies and tools
 <span><img src="https://img.shields.io/badge/NLP-green?logo=nlp&logoColor=yellow" alt="NLP logo" title="NLP" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/GenerativeAI-red?logo=GenerativeAI&logoColor=E34F26" alt="GenerativeAI logo" title="GenerativeAI" height="20" /></span>
@@ -102,7 +102,7 @@
 &nbsp;
 <img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum logo" title="Ethereum" height="35" />
 &nbsp;
-<br />
+<br /> -->
 
 <!-- 
 ## Projects
