@@ -1,20 +1,20 @@
 ## 🌟 Contact with me
-<a href="https://www.harmonitechteam.com/">
+<a href="https://www.devcutup.com/">
     <img src="https://img.shields.io/badge/Website-red?style=flat-square">
 </a> 
-<a href="https://twitter.com/harmonitechdev">
+<a href="https://twitter.com/januscutup">
     <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter&logoColor=white">
 </a>
 <a href="https://wa.me/13137423660">
     <img src="https://img.shields.io/badge/Whatsapp-blue?style=flat-square&logo=whatsapp&logoColor=white">
 </a>
-<a href='https://t.me/HarmoniTechDev' target="_blank">
+<a href='https://t.me/DevCutup' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&&color=0181FF'>
 </a>
 <a href="https://join.skype.com/invite/L7MtJGOmyh3Y">
     <img src="https://img.shields.io/badge/Skype-blue?style=flat-square&logo=skype&logoColor=white">
 </a>
-<a href="mailto:harmonitechteam@gmail.com">
+<a href="mailto:devcutup@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
