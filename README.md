@@ -2,7 +2,7 @@
 <a href="https://www.devcutup.com/">
     <img src="https://img.shields.io/badge/Website-red?style=flat-square">
 </a> 
-<a href="https://twitter.com/januscutup">
+<a href="https://twitter.com/devcutup">
     <img src="https://img.shields.io/badge/twitter-blue?style=flat-square&logo=twitter&logoColor=white">
 </a>
 <a href="https://wa.me/13137423660">
